@@ -1,7 +1,7 @@
 {
   "name": "user-admin",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "a vueJs admin user's single-page-application to manage posts by users.",
   "author": "christian-ngubana",
   "private": true,
   "scripts": {
