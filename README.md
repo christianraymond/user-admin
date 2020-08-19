@@ -23,7 +23,7 @@ npm run build --report
 
 ### Author
 
-Brad Traversy
+Christian Ngubana
 [Christian Ngubana](https://christianraymond.github.io/)
 
 ### License
